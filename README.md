@@ -1,4 +1,4 @@
-#### **基于KnowledgeGraph的电影问答系统**
+## **基于KnowledgeGraph的电影问答系统**
 
 本项目利用OpenKG.CN社区浙大提供的电影数据集构建了以电影为中心的知识图谱，并以该知识图谱完成自动问答应用的实现。
 
@@ -67,4 +67,4 @@
 
 - 问答结果展示
 
-  ![](/home/regan/桌面/Movie_KGQA/src/QA.png)
+  ![](./src/QA.png)
